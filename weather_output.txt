@@ -1,0 +1,21 @@
+-------------------------------------------------------------
+Weather Stats for - LONDON  || 23 Jun 2021 | 05:28:10 PM 
+-------------------------------------------------------------
+Current temperature is: 18.95 deg C 
+Current weather desc  :scattered clouds 
+Current Humidity      :50 % 
+Current wind speed    :4.63 kmph 
+-------------------------------------------------------------
+Weather Stats for - CALIFORNIA  || 23 Jun 2021 | 05:28:33 PM 
+-------------------------------------------------------------
+Current temperature is: 15.65 deg C 
+Current weather desc  :overcast clouds 
+Current Humidity      :81 % 
+Current wind speed    :0 kmph 
+-------------------------------------------------------------
+Weather Stats for - NEW DELHI  || 23 Jun 2021 | 05:28:49 PM 
+-------------------------------------------------------------
+Current temperature is: 40.09 deg C 
+Current weather desc  :haze 
+Current Humidity      :25 % 
+Current wind speed    :2.57 kmph 
